@@ -1,0 +1,22 @@
+# Added for GitHub upload
+.env
+.env.*
+!.env.example
+node_modules/
+.next/
+.expo/
+.vercel/
+dist/
+build/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.idea/
+.gradle/
+local.properties
+*.log
+*.db
+*.sqlite
+.DS_Store
+.claude/settings.local.json
